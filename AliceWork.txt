@@ -1,6 +1,7 @@
-feature 1.1
+Aliece 1ere ligne feature 1.1
 feature 1.2
 no feature
 feature Alice 1.3    ---------FIXED
 non comment
 feature bob 1.3
+alice 1.4
